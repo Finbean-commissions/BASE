@@ -1,0 +1,80 @@
+Special Character Reference (BASE)
+
+--Gear
+$A: Sword
+$B: Shield
+$C: Charm
+
+--Religious
+$D: 6-pointed Star
+$E: Cross
+$F: Inverted Cross
+
+--Planet
+$G: Sun W
+$H: Moon W
+$I: Sun B
+$J: Moon B
+
+--Gender Symbols
+$K: Male
+$L: Female
+$M: Other/Hermaphrodite
+
+--Star Signs
+$N: Aries
+$O: Taurus
+$P: Gemini
+$Q: Cancer
+$R: Leo
+$S: Virgo
+$T: Libra
+$U: Scorpio
+$V: Saggitarius
+$W: Capricorn
+$X: Aquarius
+$Y: Pisces
+
+--Specific Symbols relating to BASE
+$Z: Tarot Card
+$a: Bullet Point
+$b: Fish
+$c: Bug
+
+--Plaing Card Symbols
+$d: Spade W
+$e: Heart W
+$f: Broken Heart W
+$g: Diamond W
+$h: Club W
+$i: Spade B
+$j: Heart B
+$k: Broken Heart B
+$l: Diamond B
+$m: Club B
+
+--Math
+$n: Plus
+$o: Minus
+$p: Times
+$q: Divide
+
+--More Specific Symbols relating to BASE
+$r: Skull
+
+--Arrows
+$s: Arrow (Up)
+
+$t: Arrow (Right)
+
+$u: Arrow (Down)
+
+$v: Arrow (Left)
+
+$w: Arrow (Up-right)
+
+$x: Arrow (Down-right)
+
+$y: Arrow (Down-left)
+
+$z: Arrow (Up-left)
